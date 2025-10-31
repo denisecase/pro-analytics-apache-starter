@@ -91,3 +91,8 @@ spark/
 jdk/
 java/
 opt/
+
+# ----------------------------------------
+# Don't pin versions in educational repos
+# ----------------------------------------
+uv.lock
